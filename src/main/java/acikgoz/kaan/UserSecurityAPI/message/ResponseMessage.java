@@ -1,2 +1,7 @@
-package acikgoz.kaan.UserSecurityAPI.message;public class ResponseMessage {
+package acikgoz.kaan.UserSecurityAPI.message;
+
+public class ResponseMessage {
+
+    public final static String REGISTER_RESPONSE_MESSAGE = "Registration Successfully Done";
+
 }
